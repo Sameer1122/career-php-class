@@ -1,0 +1,13 @@
+.tagTest{
+	background-color: gray;
+	}
+
+	.test{
+		background-color: pink;
+	}
+
+.tagTest .test{
+	width: 50%;
+	color:red;
+	padding-bottom: 30px
+}
